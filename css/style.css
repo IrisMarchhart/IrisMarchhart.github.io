@@ -7,7 +7,7 @@
  */
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: #311b92;
 }
 
 p {
@@ -100,3 +100,8 @@ footer {
 .blur {
   filter: blur(5px);
 }
+
+.subtitle{
+	color: #9575cd;
+}
+	
